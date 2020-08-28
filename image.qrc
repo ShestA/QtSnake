@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>res/Background.png</file>
+        <file>res/Tile.png</file>
+        <file>res/TileSnakeBodyCorner.png</file>
+        <file>res/TileSnakeBodyLine.png</file>
+        <file>res/TileSnakeHead.png</file>
+        <file>res/TileSnakeTail.png</file>
+        <file>res/BackgroundField.png</file>
+        <file>res/Logo.png</file>
+        <file>res/Wall.png</file>
+        <file>res/Gen.png</file>
+        <file>res/Save.png</file>
+        <file>res/Space.png</file>
+    </qresource>
+</RCC>
