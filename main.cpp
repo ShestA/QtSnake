@@ -7,11 +7,7 @@
 #include <QApplication>
 
 int main(int argc, char *argv[])
-{//Добавить конфиг файл
-    //Добавить переключение спрайтов;
-    //Добавить базу данных хранения поля;
-    //Установить на винду кутэ и запустить там проект;
-
+{
     QApplication a(argc, argv);
     SnakeWindow w;
     w.show();
